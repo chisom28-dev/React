@@ -24,9 +24,4 @@ dist-ssr
 *.sw?
 node_modules
 public
-eslint.config.js
-package-lock.json
-vite.config.ts
-package-lock.json
-package.json
-Readme.md
+.env
